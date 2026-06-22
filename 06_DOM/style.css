@@ -1,0 +1,23 @@
+body{
+  background-color: pink;
+  color: black;
+  text-align: center;
+}
+
+h1 {
+  color : yellow;
+}
+button{
+  color: white;
+  background-color: blue;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  margin: 5px;
+  text-align: center;
+  border: 1px solid black;
+  color: white;
+  background-color: rgb(37, 37, 36);
+}
